@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Create a new account? <u>Sign Up</u></string>
+    <string name="errSignup">All fields required</string>
+    <string name="errLogin">All fields required</string>
+    <string name="error_signing_up">Error wile signing</string>
+    <string name="logout">Logout</string>
+    <string name="client_info">Client info</string>
+    <string name="welcome">Welcome</string>
+</resources>
