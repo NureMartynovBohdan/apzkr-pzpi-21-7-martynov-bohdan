@@ -373,3 +373,5 @@ Delete Item POST /delete.php { "item_id": "int" }
 List Clients GET /listClient.php {}  
 Register Client POST /registerClient.p hp { "client_name": "string", "client_email": "string", "password": "string" }  
 Edit Client POST /editForm.php { "client_id": "int", "client_name": "string", "client_email": "string", "password": "string" }
+
+Посилання на відеозапис на YouTube: https://youtu.be/mIM_N8CUTv4
